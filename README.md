@@ -7,6 +7,6 @@
 [![Coverage Status](https://coveralls.io/repos/eriknw/innertube/badge.svg?branch=master)](https://coveralls.io/r/eriknw/innertube)
 [![Code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-# *Coming Soon*
+## *Coming Soon*
 
 **To install:** `pip install innertube`

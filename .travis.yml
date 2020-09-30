@@ -32,7 +32,7 @@ deploy:
         tags: true
     user: __token__
     password:
-        secure: TODO
+        secure: "kft01q2eU0tQIMGB9MNUZI7dJZgoBnYFMjfy6v4n+JlIxI2dex0L8gcFcOoiRfUtVK5TAGSG1wXog8Xj5mtWAhpL2+r6pQNR8+gq+GP9pMziMsRtFGif+n3OivB/kp4YaO4xmEKgiopt+E/kD/IHTNsKSJf/wNwVTe0/InEm4ZnVFuMtG87ODV9bF7/0hQt2q5nRHHj0AF12Acb+Q6rqLQFMp4DwXn5EUVYIXI/MUREQvkGqc5Y1MD7FPDhOpxFeHs4Z0/bQV4Jsimgk6rGhJJCYCu12CQJ4awhPc0NIAKqsiYspoeydZ8wDLiCgBtlt7sEIwE/glz/WHQzKNoMHXLE28n1VEf6DZhl4SclVadl/wCfu1k3Y4ufYEYKrPkrrds4fXg+UuyV4bCJuIyCOXIpgYrix20XJtOWg3WoNEHIDAFTZpxY44imfJDRqufGBzP9cQUdLAxQKjN0B6GCXhjYpRAM9wgF1KE/N9zbFbK/PH7SCUFo56Zlf8HxiqcqULNq2GYwe9r9QfYtz368jn6eIimJusNdBLy9H3Zfp4zZaWld6w8z9dMA6oid8Ipi0QMXnZp9dWFzDfGpZq+B4mktdzh+oRCx4qT811+48B0Wg+vppd0CC5o1lJibjNhna/b/20/t0Z7rDSGAqMIQ8lBkJPr4N0uF6sFZcNKZw4jE="
     distributions: sdist bdist_wheel
 
 notifications:
