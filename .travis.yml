@@ -11,7 +11,7 @@ python:
 
 install:
     - pip install --upgrade pip
-    - pip install innerscope coverage pytest
+    - pip install innerscope coverage pytest dask
     - pip install -e .
 
 script:
